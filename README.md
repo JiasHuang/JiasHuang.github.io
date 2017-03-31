@@ -1,3 +1,1 @@
-# JiasHuang.github.io
-
-- [mPOS](https://jiashuang.github.io/mPOS)
+# [mPOS](https://jiashuang.github.io/mPOS)
